@@ -1,2 +1,2 @@
 # HelloWorld
-This code s to print Hello World.
+This code is to print Hello World.
